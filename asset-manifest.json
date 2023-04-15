@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Bai1/static/css/main.70853403.css",
+    "main.js": "/Bai1/static/js/main.9c535224.js",
+    "static/js/787.c20870d0.chunk.js": "/Bai1/static/js/787.c20870d0.chunk.js",
+    "index.html": "/Bai1/index.html",
+    "main.70853403.css.map": "/Bai1/static/css/main.70853403.css.map",
+    "main.9c535224.js.map": "/Bai1/static/js/main.9c535224.js.map",
+    "787.c20870d0.chunk.js.map": "/Bai1/static/js/787.c20870d0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.70853403.css",
+    "static/js/main.9c535224.js"
+  ]
+}
